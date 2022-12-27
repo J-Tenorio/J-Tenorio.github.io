@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Project
-permalink: /project/
+title: Tesis Dirigidas
+permalink: /Tesis dirigidas/
 ---
 Describe Final project.

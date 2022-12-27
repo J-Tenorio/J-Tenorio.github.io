@@ -1,12 +1,12 @@
 # Site settings
 course_name: José Javier Tenorio Huertas
-course_description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam ornare aliquam mattis. Donec hendrerit sollicitudin urna. Aliquam venenatis rutrum velit, at lobortis dui cursus a. Nam varius metus in turpis maximus, ut rhoncus tellus dictum. In aliquam tortor nec mi dapibus, sit amet vehicula dolor auctor."
+course_description: "Egresé en 1985 de ESIME-IPN de la carrera de Ingeniería Eléctrica. Después de trabajar en la industria decidí realizar una maestría en la Sección de Estudios de Posgrado e Investigación en ESIME-IPN, obtuve el grado de Maestro en Ciencias en Ingeniería Electrónica con la tesis 'Implementación de un Esquema de Protecciones de Sobrecorriente entre Relevador-Restaurador-Restaurador con Automatismo y Comunicación en un Sistema de Distribución'. "
 course_semester: "Profesor de la academia de computación"
 
 baseurl: "/" # the subpath of your site, e.g. /blog/
 url: "http://j-tenorioh.github.io/" # the base hostname & protocol for your site
 
-schoolname: "ESIME Zacatenco - IPN"
+schoolname: "ESIME Zacatenco - IPN" 
 schoolurl: "https://www.esimez.ipn.mx/"
 twitter_username: username 
 

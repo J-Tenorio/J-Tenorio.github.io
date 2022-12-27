@@ -11,14 +11,14 @@ items:
   name: Clases
   icon_class: fas fa-book-reader
 
-- url: /assignments/
-  name: Assignments
+- url: /Plantillas/
+  name: Plantillas
   icon_class: fas fa-user-graduate
 
 - url: /Tesis dirigidas/
-  name: Project
+  name: Tesis dirigidas
   icon_class: fas fa-user-graduate
 
 - url: /materiales/
-  name: Sugerencia para las materias
+  name: Sugerencias para las materias
   icon_class: fas fa-book
